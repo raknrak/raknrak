@@ -13,6 +13,29 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
+### 🎥 ProJect 🎥
+<!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
+
+
+
+| Date | Contents | With |
+|:---:|:---:|:---:|
+| 23.12 | ################# | ############# |
+| 23.11 | ################## |################# |
+| 23.10.1~23.11.10 |[온라인 BOOKSTORE 제작](https://github.com/raknrak/Team_ProJect)| 4조 팀프로젝트 |
+| 23.10.1~23.10.31 | [Java + JDBC CRUD 구현](https://github.com/raknrak/java_make_board) | 개인 |
+| 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 반응형 웹 사이트 제작](https://github.com/raknrak/MakeWebPage) | 개인 |
+
+
+  
+</div>
+<br>
+<div align="center">	
+	
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwwnoov%2Fwwnoov&count_bg=%23454942&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+ 
    	<p><h3>📃Tool📃</h3></p>
    	 <div>
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
