@@ -1,6 +1,9 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rak!&fontSize=90" />	
 </div>
+
+---
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
@@ -13,19 +16,22 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Mybatis-000000?style=flat&logo=Fluentd&logoColor=white" />
-	<br>
-### 🎥 ProJect 🎥
-<!-- | 23.10 | Dear-My-wwnoov | 개인 프로젝트 | -->
+	<br><br>
+</div>
 
+---
 
+<div align="center">
+### 🎥 Histories
 
 | Date | Contents | With |
 |:---:|:---:|:---:|
 | 23.12 | ################# | ############# |
 | 23.11 | ################## |################# |
-| 23.10.1~23.11.10 |[온라인 BOOKSTORE 제작](https://github.com/raknrak/Team_ProJect)| 4조 팀프로젝트 |
-| 23.10.1~23.10.31 | [Java + JDBC CRUD 구현](https://github.com/raknrak/java_make_board) | 개인 |
+| 23.10.27~23.11.10 |[Java CLI로 온라인 E-Book Store 구현](https://github.com/raknrak/Team_ProJect)| 4조 팀프로젝트 |
+| 23.10.1~23.10.31 | [java ](https://github.com/raknrak/java_make_board) | 개인 |
 | 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 반응형 웹 사이트 제작](https://github.com/raknrak/MakeWebPage) | 개인 |
+| 23.09.19~24.03.25 | 천재교육 에듀테크 풀스택 개발자 3기(국비지원) | 천재 IT 교육센터 |
 
 
   
