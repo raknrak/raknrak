@@ -20,10 +20,10 @@
 </div>
 
 ---
-
-<div align="center">
 ### 🎥 Histories
 
+<div align="center">
+	
 | Date | Contents | With |
 |:---:|:---:|:---:|
 | 23.12 | ################# | ############# |
