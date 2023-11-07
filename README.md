@@ -47,5 +47,12 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         </div><br>
 </div>
-<br>
-<div align="center">	
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)]<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raknrak&show_icons=true&theme=transparent)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raknrak&background=050F2C&ring=0195DD&fire=0195DD&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD&dates=ffffff)]
+
+<br />
+  <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/raknrak/github-readme-activity-graph) -->
+  
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
