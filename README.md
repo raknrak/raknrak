@@ -53,7 +53,5 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raknrak&background=050F2C&ring=0195DD&fire=0195DD&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD&dates=ffffff)
 
 <br />
-  <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=eastcopper&theme=react-dark)](https://github.com/raknrak/github-readme-activity-graph) -->
-<div align=center>  
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:020F52,50:20BDFF,100:A5FECB&height=130)
-</div>
+
+
