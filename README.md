@@ -48,7 +48,7 @@
         </div><br>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raknrak&layout=donut)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raknrak&show_icons=true&theme=transparent) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raknrak&background=050F2C&ring=0195DD&fire=0195DD&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0195DD&dates=ffffff)
 
