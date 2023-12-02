@@ -26,6 +26,8 @@
 	
 | Date | Contents | With |
 |:---:|:---:|:---:|
+| 23.11.25~23.12.08 |[JSP_MVC_Web_Page_Toy_Prj]| 팀프로젝트 |
+| 23.11.17~23.11.22 |[JSP_MVC2_Board_Toy_Prj]| 개인 |
 | 23.10.27~23.11.10 |[Java CLI로 온라인 E-Book Store 구현](https://github.com/raknrak/Team_ProJect)| 4조 팀프로젝트 |
 | 23.10.1~23.10.31 | [java와 JDBC를 사용하여 CRUD가 적용된 게시판 만들기](https://github.com/raknrak/java_make_board) | 개인 |
 | 23.10.1~23.10.31 | [CSS / HTML / JavaScript 를 활용한 반응형 웹 사이트 제작](https://github.com/raknrak/MakeWebPage) | 개인 |
