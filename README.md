@@ -32,7 +32,7 @@
 	
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 24.01.02~24.01.12 |[Spring_Web_Page_Toy_Prj](https://github.com/DeumE-Shop/DeumE-Shop)| 팀프로젝트 |
+| 24.01.02~24.01.12 |[Spring_DeumE-Shop](https://github.com/DeumE-Shop/DeumE-Shop)| 팀프로젝트 |
 | 23.11.27~23.12.11 |[JSP_MVC_Web_Page_Toy_Prj](https://github.com/Chunjae3Team/teacherFleaMarket)| 팀프로젝트 |
 | 23.11.17~23.11.22 |[JSP_MVC2_Board_Toy_Prj]| 개인 |
 | 23.10.27~23.11.10 |[Java CLI로 온라인 E-Book Store 구현](https://github.com/raknrak/Team_ProJect)| 팀프로젝트 |
