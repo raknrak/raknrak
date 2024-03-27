@@ -47,6 +47,7 @@
 	
 | Date | Contents | With |
 |:---:|:---:|:---:|
+| 24.03.04~24.03.22 |[Spring Boot_CHUNJAE-PLATFORM](https://github.com/Chunjae-Final/chunjae-platform-public)| 팀프로젝트 |
 | 24.01.21~24.02.06 |[Spring Boot_DeumE-Archive](https://github.com/DeumE-Project/DeumE-Archive-public)| 팀프로젝트 |
 | 24.01.02~24.01.19 |[Spring_DeumE-Shop](https://github.com/DeumE-Shop/DeumE-Shop)| 팀프로젝트 |
 | 23.11.27~23.12.11 |[JSP_MVC_Web_Page_Toy_Prj](https://github.com/Chunjae3Team/teacherFleaMarket)| 팀프로젝트 |
