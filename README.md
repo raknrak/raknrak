@@ -44,7 +44,7 @@
 
 <div align=center>
 	<h3>📚  Portfoli - Notion 📚</h3>
-	https://www.notion.so/49ee545fc31c43089639d576c3d3ddab?pvs=4
+	https://bubbly-cowbell-6c5.notion.site/a4ef4d1fe83b443fbded269beca74a37?pvs=4
 </div>
 
 
