@@ -8,12 +8,6 @@
 	<h3>📚  Tech  Stack 📚</h3>
 </div>
 
----
-
-<div align=center>
-	<h3>📚  Portfoli - Notion 📚</h3>
-	https://www.notion.so/49ee545fc31c43089639d576c3d3ddab?pvs=4
-</div>
 
 
 <div>
@@ -45,6 +39,14 @@
 <div align=center>
 	<h3>📚 Tool 📚</h3>
 </div>
+
+---
+
+<div align=center>
+	<h3>📚  Portfoli - Notion 📚</h3>
+	https://www.notion.so/49ee545fc31c43089639d576c3d3ddab?pvs=4
+</div>
+
 
 
 
