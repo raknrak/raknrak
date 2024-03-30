@@ -8,6 +8,14 @@
 	<h3>📚  Tech  Stack 📚</h3>
 </div>
 
+---
+
+<div align=center>
+	<h3>📚  Portfoli - Notion 📚</h3>
+	https://www.notion.so/49ee545fc31c43089639d576c3d3ddab?pvs=4
+</div>
+
+
 <div>
 <img src="https://img.shields.io/badge/JAVA-C01818?style=flat-square&logo=coffeescript&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=fff"/>
